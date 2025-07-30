@@ -5,6 +5,7 @@ import 'package:learn_flutter/container_widget/container_dua.dart';
 import 'package:learn_flutter/container_widget/container_satu.dart';
 import 'package:learn_flutter/grid_view/grid_satu.dart';
 import 'package:learn_flutter/grid_view/grid_screen.dart';
+import 'package:learn_flutter/latihan/event_orginizer/event.dart';
 import 'package:learn_flutter/latihan/latihan_satu.dart';
 import 'package:learn_flutter/latihan/roblox_card/roblox_card.dart';
 import 'package:learn_flutter/list_widget/list_satu.dart';
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: GridProductPage()
+      home: Event()
     );
   }
 }
