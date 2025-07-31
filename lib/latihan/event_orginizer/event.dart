@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:learn_flutter/latihan/event_orginizer/eventList.dart';
 import 'dummy_data.dart';
 
-class GridScreen extends StatelessWidget {
-  const GridScreen({super.key});
+class EventOrg extends StatelessWidget {
+  const EventOrg({super.key});
 
   @override
   Widget build(BuildContext context) {

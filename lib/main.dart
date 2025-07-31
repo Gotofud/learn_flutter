@@ -1,8 +1,11 @@
 // ignore_for_file: prefer_const_constructors
 
+import 'dart:html';
+
 import 'package:flutter/material.dart';
 import 'package:learn_flutter/container_widget/container_dua.dart';
 import 'package:learn_flutter/container_widget/container_satu.dart';
+import 'package:learn_flutter/form_widget/input_screen.dart';
 import 'package:learn_flutter/grid_view/grid_satu.dart';
 import 'package:learn_flutter/grid_view/grid_screen.dart';
 import 'package:learn_flutter/latihan/event_orginizer/event.dart';
@@ -29,7 +32,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: GridScreen()
+      home: InputFormScreen()
     );
   }
 }
