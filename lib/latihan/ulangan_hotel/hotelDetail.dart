@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:learn_flutter/latihan/ujian_restoran/hotelPay.dart';
+import 'package:learn_flutter/latihan/ulangan_hotel/hotelPay.dart';
 
 class HotelDetail extends StatefulWidget {
   final Map<String, String> detail;

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:learn_flutter/latihan/ujian_restoran/hotelDetail.dart';
+import 'package:learn_flutter/latihan/ulangan_hotel/hotelDetail.dart';
 import 'data.dart';
 
 class HotelForm extends StatefulWidget {
