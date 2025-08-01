@@ -12,7 +12,7 @@ import 'package:learn_flutter/latihan/event_orginizer/event.dart';
 import 'package:learn_flutter/latihan/latihan_satu.dart';
 import 'package:learn_flutter/latihan/mandiri/e.dart';
 import 'package:learn_flutter/latihan/roblox_card/roblox_card.dart';
-import 'package:learn_flutter/latihan/ujian_restoran/home.dart';
+import 'package:learn_flutter/latihan/ulangan_hotel/home.dart';
 import 'package:learn_flutter/list_widget/list_satu.dart';
 import 'package:learn_flutter/list_widget/list_screen.dart';
 import 'package:learn_flutter/main_layout.dart';
